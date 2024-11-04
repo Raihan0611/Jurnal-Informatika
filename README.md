@@ -83,3 +83,5 @@ def fungsi_tugas6():
 3. Setelah itu, *simpan* sebagai README.md di repositori GitHub-mu.
 
 Dengan ini, setiap tugas akan menampilkan preview kecil dari kodenya, serta link untuk melihat isi lengkapnya.
+
+anjayy template, males ngetik
