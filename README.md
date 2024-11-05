@@ -1,4 +1,4 @@
-# Jurnal-Informatika Part 2
+# Jurnal-TIK Part 2
 ---
 ## Jurnal 6
 #### Rabu, 9 Oktober 2024
