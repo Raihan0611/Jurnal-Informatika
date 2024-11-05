@@ -83,8 +83,6 @@ else:
 *Deskripsi*  
 Pada hari Rabu, saya belajar informatika bersama Bu Dila. Hari ini agendanya ngebahas soal-soal yang udah dikerjain kemarin. Sebelum masuk ke soal, kita disuruh ngerjain flowchart dulu. Setelah itu, lanjut deh bahas soal bareng-bareng. Bu Dila minta tiap soal dijelasin sama dua orang, satu buat programnya, satu lagi buat flowchart-nya. Selesai bahas soal, kita disuruh nyelesain program, dan akhirnya selesai juga pembelajaran informatika hari ini.
 
-
-```
 ---
 ## Jurnal 11
 #### Selasa, 29 Oktober 2024
