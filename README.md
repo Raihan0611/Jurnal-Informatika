@@ -84,17 +84,19 @@ else:
 Pada hari Rabu, saya belajar informatika bersama Bu Dila. Hari ini agendanya ngebahas soal-soal yang udah dikerjain kemarin. Sebelum masuk ke soal, kita disuruh ngerjain flowchart dulu. Setelah itu, lanjut deh bahas soal bareng-bareng. Bu Dila minta tiap soal dijelasin sama dua orang, satu buat programnya, satu lagi buat flowchart-nya. Selesai bahas soal, kita disuruh nyelesain program, dan akhirnya selesai juga pembelajaran informatika hari ini.
 
 
-
-### Preview Code
-[Lihat kode lengkap di Tugas10.py](./Tugas10.py)
-```python
-
 ```
 ---
 ## Jurnal 11
 #### Selasa, 29 Oktober 2024
 *Deskripsi*  
-Penjelasan singkat tentang isi Tugas11.py.
+Pada hari itu Saya belajar tentang **Elif** adalah singkatan dari **"else if"** dalam bahasa pemrograman. Jadi, selain if dan else, kita juga bisa pakai elif buat ngecek lebih dari satu kondisi sebelum sampai ke else.
+
+Misalnya gini, mau ngecek beberapa kondisi:  
+- Kalau nilai lebih dari 80, hasilnya "Bagus"
+- Kalau nilainya di antara 60-80, hasilnya "Cukup"
+- Kalau di bawah 60, "Kurang"
+
+Kode-nya bisa ditulis pakai elif:
 
 ### Preview Code
 [Lihat kode lengkap di Tugas11.py](./Tugas11.py)
