@@ -87,7 +87,7 @@ Pada hari Rabu, saya belajar informatika bersama Bu Dila. Hari ini agendanya nge
 ## Jurnal 11
 #### Selasa, 29 Oktober 2024
 *Deskripsi*  
-Pada hari itu Saya belajar tentang **Elif** adalah singkatan dari **"else if"** dalam bahasa pemrograman. Jadi, selain if dan else, kita juga bisa pakai elif buat ngecek lebih dari satu kondisi sebelum sampai ke else.
+Pada hari itu Saya belajar tentang **Elif** singkatan dari **"else if"** dalam bahasa pemrograman. Jadi, selain if dan else, kita juga bisa pakai elif buat ngecek lebih dari satu kondisi sebelum sampai ke else.
 
 Misalnya gini, mau ngecek beberapa kondisi:  
 - Kalau nilai lebih dari 80, hasilnya "Bagus"
