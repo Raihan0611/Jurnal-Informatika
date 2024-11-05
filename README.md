@@ -1,11 +1,12 @@
 # Jurnal-Informatika
-
+---
 ## Jurnal 6
 #### Rabu, 9 Oktober 2024
-<u>Deskripsi</u>  
+*Deskripsi*  
 Pada hari Rabu saya belajar bersama Bu Dila tentang materi baru yaitu:
 - True (benar)
 - False (salah)
+
 Kemudian belajar tentang operasi komparasi yaitu:
 - \> : Lebih besar dari
 - < : Lebih kecil dari
@@ -13,6 +14,8 @@ Kemudian belajar tentang operasi komparasi yaitu:
 - <= : Lebih kecil sama dengan dari
 - == : Sama dengan
 - != : Tidak sama dengan
+
+Setelah mempelajarinya kita diminta untuk latihan membuat kodenya 
 ### Preview Code
 [Lihat kode lengkap di Tugas6.py](./Tugas6.py)
 ```python
