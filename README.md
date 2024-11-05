@@ -85,9 +85,19 @@ Penjelasan singkat tentang isi Tugas10.py.
 ### Preview Code
 [Lihat kode lengkap di Tugas6.py](./Tugas10.py)
 ```python
-# Preview dari Tugas10.py (beberapa baris awal atau fungsi utama)
-def fungsi_tugas6():
-    print("Hello dari Tugas6!")
+a = float(input("Masukkan angka A: "))
+b = float(input("Masukkan angka B: "))
+c = float(input("Masukkan angka C: "))
+if a == b == c:
+    print("Merupakan segitiga sama sisi")
+elif a == b != c:
+    print("Merupakan segitiga sama kaki")
+elif b == c != a:
+    print("Merupakan segitiga sama kaki")
+elif c == a != b:
+    print("Merupakan segitiga sama kaki")
+else:
+    print("Merupakan segitiga sembarang")
 ```
 ---
 ## Tugas 11
