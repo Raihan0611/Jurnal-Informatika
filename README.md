@@ -149,10 +149,26 @@ Hari ini aku dan teman-teman cuma lanjut materi dari minggu lalu. Tapi, Bu Dila 
 ### Preview code
 [Lihat kode lengkap di Tugas13.py](./Tugas13.py)
 ```python
+# Soal ke 2
+jenis_kendaraan = str(input("Motor atau Mobil?: "))
+durasi_parkir = float(input("Berapa lama anda akan parkir?: "))
+
+if jenis_kendaraan == "motor" :
+    if durasi_parkir <= 2 :
+        print("Tarif parkir anda adalah Rp,", 2000)
+    else:
+        print("Tarif parkir anda adalah Rp,", 2000+(durasi_parkir-2)*1000)
+elif jenis_kendaraan == "mobil" :
+    if durasi_parkir <= 2 :
+        print("Tarif parkir anda adalah Rp,", 5000)
+    else:
+        print("Tarif parkir anda adalah Rp,", 5000+(durasi_parkir-2)*2000)
+else:
+    print("Kendaraan tidak Valid")
 ```
 
 #
-> Catatan: Untuk melihat kode lengkap dan lebih detail, silakan kunjungi file yang bersangkutan melalui tautan yang tersedia di setiap tugas.
+> Catatan: Untuk melihat kode lengkap dan lebih detail, silakan klik link file yang disediakan melalui tautan yang tersedia di setiap tugas.
 
 
 
