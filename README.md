@@ -29,13 +29,9 @@ print(ganyang, '>', fufufafa, hasil)
 *Deskripsi*  
 Penjelasan singkat tentang isi Tugas6.py.
 
-### Preview Code
+### Preview Video
 [Klik link ini untuk melihat Video](https://youtu.be/Kv_lDWq8kCc?si=9_js_NG4Ip-g2q9A)
-```python
-# Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
-def fungsi_tugas6():
-    print("Hello dari Tugas6!")
-```
+![alt text](https://github.com/Raihan0611/Jurnal-Informatika/blob/main/Gambar/Jurnal7.png?raw=true)
 ---
 ## Tugas 6
 *Deskripsi*  
