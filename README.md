@@ -39,16 +39,16 @@ Pada hari itu saya dan teman teman saya ditugaskan untuk mempelajari operasi kom
 ## Jurnal 8
 #### Rabu, 16 Oktober 2024
 *Deskripsi*  
-Pada hari Rabu ini saya dan beberapa kawan saya izin untuk mengikuti kegiatan GID. Tetapi saya bertanya ke teman saya apa saja tugas yang ada di hari itu dan saya hanya mendapatkan sebuah code program python tentang Passwoard, itu berarti sudah masuk materi if.
+Hari Rabu ini, saya dengan beberapa teman izin buat ikut kegiatan GID. Tapi saya sempet nanya ke teman soal tugas yang ada hari itu, dan ternyata ada satu code program Python tentang Password. Dari situ keliatan kalau udah mulai masuk ke materi if.
 
 ### Preview Code
 [Lihat kode lengkap di Tugas8.py](./Tugas8.py)
 ```python
-passwoard = int(input("Masukkan Passwoard: "))
+passwoard = int(input("Masukkan Password: "))
 if passwoard == 1234:
-    print("Passwoard Benar")
+    print("Password Benar")
 else:
-    print("Passwoard Salah")
+    print("Password Salah")
 ```
 
 ### Bukti Foto GID
@@ -138,8 +138,18 @@ elif nilai < 75 :
     else:
     print("Tingkatkan kehadiran")
 ```
-
 ---
+
+## Jurnal 13
+#### Selasa, 5 November 2024
+*Deskripsi*  
+Hari ini aku dan teman-teman cuma lanjut materi dari minggu lalu. Tapi, Bu Dila kasih tugas tambahan tentang nested if, yaitu bikin program cek diskon berdasarkan member, sama program Python untuk cek parkir kendaraan motor dan mobil.
+
+
+### Preview code
+[Lihat kode lengkap di Tugas13.py](./Tugas13.py)
+```python
+```
 
 #
 > Catatan: Untuk melihat kode lengkap dan lebih detail, silakan kunjungi file yang bersangkutan melalui tautan yang tersedia di setiap tugas.
