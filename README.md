@@ -118,7 +118,7 @@ else:
 ## Jurnal 12
 #### Rabu, 30 Oktober 2024
 *Deskripsi*  
-Pada hari itu saya belajar tentang **Nested if** yaitu kondisi if yang ada di dalam kondisi if lain, alias if bertingkat. Biasanya sering dipakai kalau kita mau ngecek beberapa kondisi dalam satu kondisi utama.  
+Pada hari itu saya belajar tentang **Nested if** yaitu kondisi **if** yang ada di dalam kondisi **if lain**, alias **if bertingkat**. Biasanya sering dipakai kalau kita mau ngecek beberapa kondisi dalam satu kondisi utama.  
 
 Misalnya, kamu mau cek apakah nilai seorang siswa memenuhi syarat kelulusan. Tapi, di dalam kelulusan itu, kita juga mau cek apakah presentase kehadirannya tinggi atau biasa saja.
 
