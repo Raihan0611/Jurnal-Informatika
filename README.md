@@ -85,7 +85,7 @@ Penjelasan singkat tentang isi Tugas10.py.
 ### Preview Code
 [Lihat kode lengkap di Tugas6.py](./Tugas10.py)
 ```python
-# Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
+# Preview dari Tugas10.py (beberapa baris awal atau fungsi utama)
 def fungsi_tugas6():
     print("Hello dari Tugas6!")
 ```
@@ -97,7 +97,7 @@ Penjelasan singkat tentang isi Tugas11.py.
 ### Preview Code
 [Lihat kode lengkap di Tugas6.py](./Tugas11.py)
 ```python
-# Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
+# Preview dari Tugas11.py (beberapa baris awal atau fungsi utama)
 def fungsi_tugas6():
     print("Hello dari Tugas6!")
 ```
