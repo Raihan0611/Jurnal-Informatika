@@ -1,5 +1,5 @@
 passwoard = int(input("Masukkan Passwoard: "))
 if passwoard == 1234:
-    print("Passwoard Benar")
+    print("Password Benar")
 else:
-    print("Passwoard Salah")
+    print("Password Salah")
