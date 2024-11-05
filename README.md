@@ -146,11 +146,6 @@ elif nilai < 75 :
 
 
 
-### Langkah Akhir:
-1. Ganti *penjelasan singkat* dengan deskripsi yang sesuai untuk setiap tugas.
-2. Sesuaikan *preview code* berdasarkan isi dari tiap file .py (seperti beberapa fungsi atau bagian penting).
-3. Setelah itu, *simpan* sebagai README.md di repositori GitHub-mu.
-
-Dengan ini, setiap tugas akan menampilkan preview kecil dari kodenya, serta link untuk melihat isi lengkapnya.
-
-anjayy template, males ngetik
+### Selesai~~~
+- Azzam Fathur Raihan
+- XI-C1
