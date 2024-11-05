@@ -56,7 +56,7 @@ else:
 <img src="https://github.com/Raihan0611/Jurnal-Informatika/blob/main/Gambar/GID.jpg" width="65%" style="max-width: 600px; height: auto;" />
 
 ---
-## Tugas 9
+## Jurnal 9
 #### Selasa, 22 Oktober 2024
 *Deskripsi*  
 Pada hari ini saya belajar fungsi **if else**:
@@ -78,12 +78,26 @@ else:
     print("Belum cukup umur untuk membuat KTP")
 ```
 ---
-## Tugas 10
+## Jurnal 10
+#### Rabu, 23 Oktober 2024
 *Deskripsi*  
-Penjelasan singkat tentang isi Tugas10.py.
+Pada hari Rabu, saya belajar informatika bersama Bu Dila. Hari ini agendanya ngebahas soal-soal yang udah dikerjain kemarin. Sebelum masuk ke soal, kita disuruh ngerjain flowchart dulu. Setelah itu, lanjut deh bahas soal bareng-bareng. Bu Dila minta tiap soal dijelasin sama dua orang, satu buat programnya, satu lagi buat flowchart-nya. Selesai bahas soal, kita disuruh nyelesain program, dan akhirnya selesai juga pembelajaran informatika hari ini.
+
+
 
 ### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas10.py)
+[Lihat kode lengkap di Tugas10.py](./Tugas10.py)
+```python
+
+```
+---
+## Jurnal 11
+#### Selasa, 29 Oktober 2024
+*Deskripsi*  
+Penjelasan singkat tentang isi Tugas11.py.
+
+### Preview Code
+[Lihat kode lengkap di Tugas11.py](./Tugas11.py)
 ```python
 a = float(input("Masukkan angka A: "))
 b = float(input("Masukkan angka B: "))
@@ -100,18 +114,32 @@ else:
     print("Merupakan segitiga sembarang")
 ```
 ---
-## Tugas 11
+
+## Jurnal 12
+#### Rabu, 30 Oktober 2024
 *Deskripsi*  
 Penjelasan singkat tentang isi Tugas11.py.
 
 ### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas11.py)
+[Lihat kode lengkap di Tugas12.py](./Tugas12.py)
 ```python
-# Preview dari Tugas11.py (beberapa baris awal atau fungsi utama)
-def fungsi_tugas6():
-    print("Hello dari Tugas6!")
+a = float(input("Masukkan angka A: "))
+b = float(input("Masukkan angka B: "))
+c = float(input("Masukkan angka C: "))
+if a == b == c:
+    print("Merupakan segitiga sama sisi")
+elif a == b != c:
+    print("Merupakan segitiga sama kaki")
+elif b == c != a:
+    print("Merupakan segitiga sama kaki")
+elif c == a != b:
+    print("Merupakan segitiga sama kaki")
+else:
+    print("Merupakan segitiga sembarang")
 ```
+
 ---
+
 #
 > Catatan: Untuk melihat kode lengkap dan lebih detail, silakan kunjungi file yang bersangkutan melalui tautan yang tersedia di setiap tugas.
 
