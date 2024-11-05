@@ -33,7 +33,7 @@ Pada hari itu saya dan teman teman saya ditugaskan untuk mempelajari operasi kom
 ### Preview Video
 [Klik link ini untuk melihat Video](https://youtu.be/Kv_lDWq8kCc?si=9_js_NG4Ip-g2q9A)  
 
-<img src="https://raw.githubusercontent.com/Raihan0611/Jurnal-Informatika/refs/heads/main/Gambar/Jurnal7.png" width="60%" style="max-width: 600px; height: auto;" />
+<img src="https://raw.githubusercontent.com/Raihan0611/Jurnal-Informatika/refs/heads/main/Gambar/Jurnal7.png" width="65%" style="max-width: 600px; height: auto;" />
 
 ---
 ## Jurnal 8
@@ -53,7 +53,7 @@ else:
 
 ### Bukti Foto GID
 
-<img src="https://github.com/Raihan0611/Jurnal-Informatika/blob/main/Gambar/GID.jpg" width="60%" style="max-width: 600px; height: auto;" />
+<img src="https://github.com/Raihan0611/Jurnal-Informatika/blob/main/Gambar/GID.jpg" width="65%" style="max-width: 600px; height: auto;" />
 
 ---
 ## Tugas 9
