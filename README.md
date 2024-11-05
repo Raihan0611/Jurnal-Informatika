@@ -25,12 +25,12 @@ hasil = ganyang > fufufafa
 print(ganyang, '>', fufufafa, hasil)
 ```
 ---
-## Tugas 6
+## Jurnal 7
 *Deskripsi*  
 Penjelasan singkat tentang isi Tugas6.py.
 
 ### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas6.py)
+[Klik link ini untuk melihat Video](https://youtu.be/Kv_lDWq8kCc?si=9_js_NG4Ip-g2q9A)
 ```python
 # Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
 def fungsi_tugas6():
