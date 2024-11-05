@@ -1,7 +1,7 @@
 while True:
     usia = int(input("Masukkan umur: "))
     if usia <= 0 :
-        print("Belum lahir gblokk")
+        print("Belum lahir")
     elif usia < 13 :
         print ("Kategori: Anak-anak")
     elif usia <= 18 :
