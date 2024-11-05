@@ -32,8 +32,7 @@ Penjelasan singkat tentang isi Tugas6.py.
 ### Preview Video
 [Klik link ini untuk melihat Video](https://youtu.be/Kv_lDWq8kCc?si=9_js_NG4Ip-g2q9A)  
 
-<img src="https://raw.githubusercontent.com/Raihan0611/Jurnal-Informatika/refs/heads/main/Gambar/Jurnal7.png" width="100%" style="max-width: 600px; height: auto;" />
-
+<img src="https://raw.githubusercontent.com/Raihan0611/Jurnal-Informatika/refs/heads/main/Gambar/Jurnal7.png" width="50%" style="max-width: 600px; height: auto;" />
 
 ---
 ## Tugas 6
