@@ -36,48 +36,66 @@ Pada hari itu saya dan teman teman saya ditugaskan untuk mempelajari operasi kom
 <img src="https://raw.githubusercontent.com/Raihan0611/Jurnal-Informatika/refs/heads/main/Gambar/Jurnal7.png" width="60%" style="max-width: 600px; height: auto;" />
 
 ---
-## Tugas 6
+## Jurnal 8
+#### Rabu, 16 Oktober 2024
 *Deskripsi*  
-Penjelasan singkat tentang isi Tugas6.py.
+Pada hari Rabu ini saya dan beberapa kawan saya izin untuk mengikuti kegiatan GID. Tetapi saya bertanya ke teman saya apa saja tugas yang ada di hari itu dan saya hanya mendapatkan sebuah code program python tentang Passwoard, itu berarti sudah masuk materi if.
 
 ### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas6.py)
+[Lihat kode lengkap di Tugas8.py](./Tugas8.py)
+```python
+passwoard = int(input("Masukkan Passwoard: "))
+if passwoard == 1234:
+    print("Passwoard Benar")
+else:
+    print("Passwoard Salah")
+```
+
+### Bukti Foto GID
+
+<img src="https://github.com/Raihan0611/Jurnal-Informatika/blob/main/Gambar/GID.jpg" width="60%" style="max-width: 600px; height: auto;" />
+
+---
+## Tugas 9
+#### Selasa, 22 Oktober 2024
+*Deskripsi*  
+Pada hari ini saya belajar fungsi **if else**:
+
+- If: digunakan buat ngecek kondisi tertentu. Misalnya, "Kalau cuacanya bagus, jalan-jalan".
+- Else: digunakan kalau kondisi if tidak terpenuhi, alias "Selain itu". Misalnya, "Kalau cuacanya hujan, berarti nonton bioskop".
+
+Setelah itu Bu Dila memberikan 4 Soal if else untuk dikerjakan yaitu tentang:  
+cek angka positif negatif, cek angka ganjil genap, cek umur, dan cek diskon.
+
+### Preview Code
+[Lihat kode lengkap di Tugas9.py](./Tugas9.py)
+```python
+# Soal nomor 3
+umur =  float(input("Masukkan Umur: "))
+if umur >= 17:
+    print("Sudah cukup umur untuk membuat KTP")
+else:
+    print("Belum cukup umur untuk membuat KTP")
+```
+---
+## Tugas 10
+*Deskripsi*  
+Penjelasan singkat tentang isi Tugas10.py.
+
+### Preview Code
+[Lihat kode lengkap di Tugas6.py](./Tugas10.py)
 ```python
 # Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
 def fungsi_tugas6():
     print("Hello dari Tugas6!")
 ```
 ---
-## Tugas 6
+## Tugas 11
 *Deskripsi*  
-Penjelasan singkat tentang isi Tugas6.py.
+Penjelasan singkat tentang isi Tugas11.py.
 
 ### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas6.py)
-```python
-# Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
-def fungsi_tugas6():
-    print("Hello dari Tugas6!")
-```
----
-## Tugas 6
-*Deskripsi*  
-Penjelasan singkat tentang isi Tugas6.py.
-
-### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas6.py)
-```python
-# Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
-def fungsi_tugas6():
-    print("Hello dari Tugas6!")
-```
----
-## Tugas 6
-*Deskripsi*  
-Penjelasan singkat tentang isi Tugas6.py.
-
-### Preview Code
-[Lihat kode lengkap di Tugas6.py](./Tugas6.py)
+[Lihat kode lengkap di Tugas6.py](./Tugas11.py)
 ```python
 # Preview dari Tugas6.py (beberapa baris awal atau fungsi utama)
 def fungsi_tugas6():
