@@ -123,19 +123,17 @@ Penjelasan singkat tentang isi Tugas11.py.
 ### Preview Code
 [Lihat kode lengkap di Tugas12.py](./Tugas12.py)
 ```python
-a = float(input("Masukkan angka A: "))
-b = float(input("Masukkan angka B: "))
-c = float(input("Masukkan angka C: "))
-if a == b == c:
-    print("Merupakan segitiga sama sisi")
-elif a == b != c:
-    print("Merupakan segitiga sama kaki")
-elif b == c != a:
-    print("Merupakan segitiga sama kaki")
-elif c == a != b:
-    print("Merupakan segitiga sama kaki")
-else:
-    print("Merupakan segitiga sembarang")
+nilai = int(input("Masukkan nilai: "))
+hadir = int(input("Masukkan presentase kehadiran: "))
+if (nilai >= 75) and (hadir >= 80):
+    print("Lulus")
+elif nilai < 75 :
+    if hadir > 90 :
+        print("Perbaiki nilai ujian")
+    else:
+        print("Tidak Lulus")
+    else:
+    print("Tingkatkan kehadiran")
 ```
 
 ---
