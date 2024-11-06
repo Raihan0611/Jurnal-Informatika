@@ -166,7 +166,16 @@ elif jenis_kendaraan == "mobil" :
 else:
     print("Kendaraan tidak Valid")
 ```
+## Jurnal 14
+#### Rabu, 6 November 2024
+*Deskripsi*  
 
+
+
+### Preview code
+[Lihat kode lengkap di Tugas14.py](./Tugas14.py)
+```python
+```
 #
 > Catatan: Untuk melihat kode lengkap dan lebih detail, silakan klik link file yang disediakan melalui tautan yang tersedia di setiap tugas.
 
