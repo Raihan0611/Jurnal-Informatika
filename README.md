@@ -179,19 +179,19 @@ Hari Rabu ini, saya dan teman-teman dikasih tugas latihan Python karena minggu d
 
 Tapi setelah ngerjain beberapa soal, Bu Dila meminta saya buat gantian ke Dean biar dia juga belajar dan siap buat ngerjain tes minggu depan.
 
-
-
-
-
-
 ### Preview code
 [Lihat kode lengkap di Tugas14.py](./Tugas14.py)
 ```python
+# Soal ke 1
+huruf = str(input("Masukkan 1 huruf: "))
+if huruf.lower() == "a" or huruf == "i" or huruf == "u" or huruf == "e" or huruf == "o":
+    print("Ini adalah huruf Vokal")
+else:
+    print("Ini adalah huruf Konsonan")
 ```
+
 #
 > Catatan: Untuk melihat kode lengkap dan lebih detail, silakan klik link file yang disediakan melalui tautan yang tersedia di setiap tugas.
-
-
 
 ### Selesai~~~
 - Azzam Fathur Raihan
