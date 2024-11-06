@@ -183,8 +183,9 @@ Tapi setelah ngerjain beberapa soal, Bu Dila meminta saya buat gantian ke Dean b
 [Lihat kode lengkap di Tugas14.py](./Tugas14.py)
 ```python
 # Soal ke 1
-huruf = str(input("Masukkan 1 huruf: "))
-if huruf.lower() == "a" or huruf == "i" or huruf == "u" or huruf == "e" or huruf == "o":
+HURUF = str(input("Masukkan 1 huruf: "))
+huruf = HURUF.lower()
+if huruf == "a" or huruf == "i" or huruf == "u" or huruf == "e" or huruf == "o":
     print("Ini adalah huruf Vokal")
 else:
     print("Ini adalah huruf Konsonan")
