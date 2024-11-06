@@ -169,6 +169,18 @@ else:
 ## Jurnal 14
 #### Rabu, 6 November 2024
 *Deskripsi*  
+Hari Rabu ini, saya dan teman-teman dikasih tugas latihan Python karena minggu depan ada tes informatika. Bu Dila kasih 5 soal latihan:
+
+1. Tentuin huruf vokal atau konsonan.
+2. Tentuin hari berdasarkan angka.
+3. Tentuin prestasi berdasarkan nilai.
+4. Tentuin harga tiket berdasarkan umur dan hari.
+5. Tentuin potongan gaji berdasarkan jam telat dan status kontrak atau tetap.
+
+Tapi setelah ngerjain beberapa soal, Bu Dila meminta saya buat gantian ke Dean biar dia juga belajar dan siap buat ngerjain tes minggu depan.
+
+
+
 
 
 
